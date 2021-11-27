@@ -17,3 +17,6 @@ body{
 
 /* 1rem =16px */
 
+.nav-link{
+    display: none;
+}
